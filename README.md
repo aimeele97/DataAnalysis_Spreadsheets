@@ -1,4 +1,4 @@
-# Data Cleaning Project - Coffee Sale Dataset
+# Data Cleaning Project - Cafe Sales Dataset
 
 ## 1. **Project Overview**
 
